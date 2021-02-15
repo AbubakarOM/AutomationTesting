@@ -1,0 +1,30 @@
+1613400922038	geckodriver	INFO	Listening on 127.0.0.1:52817
+1613400925076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileKJ993l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613400930360	Marionette	INFO	Listening on port 52826
+1613400930746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613400930774	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1613400995716	Marionette	INFO	Stopped listening on port 52826
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613407487619	geckodriver	INFO	Listening on 127.0.0.1:58187
+1613407490741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2tLki7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613407494544	Marionette	INFO	Listening on port 58196
+1613407494935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613407494956	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://widget-v1.helpcrunch.com/sdk-code.js?ver=1591346383161, line 9: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://test.chaka.ng"
+1613407523300	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
